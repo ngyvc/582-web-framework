@@ -12,7 +12,6 @@
 
 - [VueMastery CheatSheets](vuemastery.com/vue-cheat-sheet/)
 
-
 ## Useful Links
 
 - [Placehold](https://placehold.co/)
