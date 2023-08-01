@@ -22,19 +22,25 @@
 
 ## Data Binding
 
-- v-bind:src="imageSrc"
-- :src="imageSrc"
+```vue
+v-bind:src="imageSrc"
+:src="imageSrc"
+```
 
 ## Conditionals
 
-- v-if="available"
-- v-else
-- v-show="available"
+```vue
+v-if="available"
+v-else
+v-show="available"
+```
 
 ## Loops
 
-- v-for="item in list"
-- v-for="detail of item"
+```vue
+v-for="item in list"
+v-for="detail of item"
+```
 
 (you can use in and of for loops)
 
@@ -42,11 +48,15 @@
 
 ## Listeners / Actions
 
-- @mouseover="action"
+```vue
+@mouseover="action"
+```
 
 ## Emitting events and data payloads
 
-- this.$emit("new-event", payload)
+```vue
+this.$emit("new-event", payload)
+```
 
 ## Important parts inside app
 
