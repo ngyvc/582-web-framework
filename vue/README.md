@@ -58,6 +58,12 @@ v-for="detail of item"
 this.$emit("new-event", payload)
 ```
 
+### Two-way binding
+
+```vue
+v-model="expression"
+```
+
 ## Important parts inside app
 
 - setup
