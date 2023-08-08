@@ -12,6 +12,8 @@
 
 - [VueMastery CheatSheets](vuemastery.com/vue-cheat-sheet/)
 
+- [VueMastery Crashcourse](https://www.youtube.com/watch?v=bzlFvd0b65c)
+
 ## Useful Links
 
 - [Placehold](https://placehold.co/)
