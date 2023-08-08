@@ -16,6 +16,35 @@
 
 - [Placehold](https://placehold.co/)
 
+## Installing Vue
+
+```
+npm install -g @vue/cli
+```
+
+Find your vue cli tool in your user profile path
+```
+C:\Users\username\AppData\Roaming\npm
+```
+or
+```
+%appdata%\npm
+```
+
+## Starting a Vue project
+
+Make sure you have the vue cli installed and you can call the cli to start a project using the following:
+
+```
+vue create name-of-app
+```
+
+At the labs, you will have to reference the entire user path to get to your appdata folder to access vue.cmd after installing the cli:
+
+```
+C:\Users\username\AppData\Roaming\npm\vue.cmd create name-of-app
+```
+
 ## Expressions
 
 {{ expression }}
