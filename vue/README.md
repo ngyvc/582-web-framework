@@ -95,6 +95,15 @@ this.$emit("new-event", payload)
 v-model="expression"
 ```
 
+### Preventing default behaviour
+
+```html
+<!-- the submit event will no longer reload the page -->
+<form @submit.prevent="onSubmit"></form>
+```
+
+[Event Modifiers](https://vuejs.org/guide/essentials/event-handling.html#event-modifiers)
+
 ## Important parts inside app
 
 - setup
