@@ -6,22 +6,16 @@
 
 ### [Basics](vue/README.md)
 
-### Npm
-
-### Reactivity and data binding
-
-### Handling events
-
-### Components
-
-### Component Design
-
-### Component communications and emitting events and data
-
-### Routing and views
+- Npm
+- Reactivity and data binding
+- Handling events
+- Components
+- Component Design
+- Component communications and emitting events and data
+- Routing and views
 
 ## SCSS
 
-### [Basics](scss/README.md)
+- [Basics](scss/README.md)
 
 ## React.js

@@ -14,6 +14,8 @@
 
 - [VueMastery Crashcourse](https://www.youtube.com/watch?v=bzlFvd0b65c)
 
+- [Vue Router Guide](https://router.vuejs.org/guide/)
+
 ## Useful Links
 
 - [Placehold](https://placehold.co/)
